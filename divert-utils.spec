@@ -5,8 +5,6 @@ Version:	0.221
 Release:	1
 License:	GPL
 Group:		Networking/Admin
-Group(de):	Netzwerkwesen/Administration
-Group(pl):	Sieciowe/Administracyjne
 Source0:	http://diverter.sourceforge.net/EtherDivert/%{name}-%{version}.tar.gz
 URL:		http://diverter.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
