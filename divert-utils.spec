@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Networking/Admin
 Source0:	http://diverter.sourceforge.net/EtherDivert/%{name}-%{version}.tar.gz
+# Source0-md5:	027266c07c7e912f62801b5da3db105f
 URL:		http://diverter.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
