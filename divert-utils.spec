@@ -1,5 +1,5 @@
-Summary:	An ethernet frame diverter for transparent www proxying bridge and more
-Summary(pl):	Ethernetowy frame diverter dla transparentnego proxy www i wiêcej
+Summary:	An ethernet frame diverter for transparent WWW proxying bridge and more
+Summary(pl):	Ethernetowy frame diverter dla transparentnego proxy WWW i wiêcej
 Name:		divert-utils
 Version:	0.221
 Release:	1
@@ -13,11 +13,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %define		_sbindir	/sbin
 
 %description
-An ethernet frame diverter for transparent www proxying bridge and
+An ethernet frame diverter for transparent WWW proxying bridge and
 more.
 
 %description -l pl
-Ethernetowy frame diverter dla transparentnego proxy www i wiêcej.
+Ethernetowy frame diverter dla transparentnego proxy WWW i wiêcej.
 
 %prep
 %setup -q
