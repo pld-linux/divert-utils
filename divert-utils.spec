@@ -1,5 +1,5 @@
 Summary:	An ethernet frame diverter for transparent WWW proxying bridge and more
-Summary(pl.UTF-8):   Ethernetowy frame diverter dla transparentnego proxy WWW i więcej
+Summary(pl.UTF-8):	Ethernetowy frame diverter dla transparentnego proxy WWW i więcej
 Name:		divert-utils
 Version:	0.221
 Release:	1
